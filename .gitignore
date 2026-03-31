@@ -7,9 +7,9 @@ challenge.md
 # portuguese draft (superseded by ROADMAP.md)
 roadmap-PT.md
 
-# root-level duplicate (real one lives in order-desk/lib/)
-mock-data.ts
-logo.png
+# root-level duplicates (real ones live inside order-desk/)
+/mock-data.ts
+/logo.png
 
 # Next.js
 order-desk/.next
