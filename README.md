@@ -2,7 +2,7 @@
 
 **How I turn a scattered founder conversation into something a dev can actually build.**
 
-→ [Live prototype](https://order-desk.vercel.app) · [Prototype source](/order-desk) · [Full roadmap](./ROADMAP.md)
+→ [Live prototype](https://ambiguity-to-sprint.vercel.app/orders) · [Prototype source](/order-desk) · [Full roadmap](./ROADMAP.md)
 
 ---
 
