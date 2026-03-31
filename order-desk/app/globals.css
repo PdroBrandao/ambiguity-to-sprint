@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --turbo-purple: #6d28d9;
+  --turbo-purple-light: #7c3aed;
+  --turbo-purple-dark: #5b21b6;
+}

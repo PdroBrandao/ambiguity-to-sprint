@@ -1,0 +1,20 @@
+# sensitive / working notes
+questions.md
+
+# original challenge file (not part of the public asset)
+challenge.md
+
+# portuguese draft (superseded by ROADMAP.md)
+roadmap-PT.md
+
+# root-level duplicate (real one lives in order-desk/lib/)
+mock-data.ts
+logo.png
+
+# Next.js
+order-desk/.next
+order-desk/node_modules
+order-desk/.env*
+
+# OS
+.DS_Store
